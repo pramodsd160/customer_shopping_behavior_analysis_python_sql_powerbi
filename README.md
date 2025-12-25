@@ -176,6 +176,6 @@ PBIX file available in **dashboard** folder.
 
 ## **Author & Contact**
 👤 **Author:** Pramod Dhamane (Data Analyst)
-  - **[Email](pramodsd160@gmail.com)**
+  - **[Email](mailto:pramodsd160@gmail.com)**
   - **[LinkedIn](www.linkedin.com/in/pramoddhamane)**
   - **[GitHub](https://github.com/pramodsd160)** 
